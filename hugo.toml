@@ -1,3 +1,11 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "http://localhost/"
+title = "Daniel Tan"
+theme = "blowfish"
+
+defaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    locale = "en_US"
+    languageName = "English"
+    weight = 1

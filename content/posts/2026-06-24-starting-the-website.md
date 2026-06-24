@@ -1,30 +1,31 @@
 ---
-title: "Starting My Development Portfolio"
+title: "Starting My Developer Website"
 date: 2026-06-24
 tags:
 - website
 - hugo
+- git
 ---
 
 ## What I Worked On
 
 - Installed Hugo
-- Created website repository
-- Connected Git and GitHub
-- Started planning project organization
+- Learned basic Git
+- Created my website repository
+- Installed Blowfish
 
 ## Problems
 
-Had issues pushing to GitHub because of branch naming and remote history.
+- Git push issues
+- Learned about branches and remotes
 
 ## What I Learned
 
-- Difference between local and remote repositories
-- Why Git uses commits and branches
-- How to resolve unrelated histories
+- GitHub repositories are just Git repositories hosted online.
+- Themes control how Hugo displays content.
 
 ## Next Steps
 
-- Add project pages
-- Add blog organization
-- Publish website
+- Finish website setup
+- Create project pages
+- Start Desktop Companion
