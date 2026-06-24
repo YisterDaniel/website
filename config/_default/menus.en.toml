@@ -6,12 +6,12 @@ weight = 10
 [[main]]
 name = "Now"
 pageRef = "now"
-weight = 30
+weight = 20
 
 [[main]]
 name = "Blog"
 pageRef = "posts"
-weight = 20
+weight = 30
 
 [[main]]
 name = "About"
