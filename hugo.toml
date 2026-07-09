@@ -7,5 +7,5 @@ defaultContentLanguage = "en"
 [languages]
   [languages.en]
     locale = "en_US"
-    languageName = "English"
+    label = "English"
     weight = 1
