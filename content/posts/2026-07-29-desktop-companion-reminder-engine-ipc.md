@@ -3,8 +3,7 @@
 title: "Desktop Companion - Building the Reminder Engine and Electron IPC Communication"
 date: 2026-07-29
 ---
-
-# Desktop Companion - Building the Reminder Engine and Electron IPC Communication
+<!-- # Desktop Companion - Building the Reminder Engine and Electron IPC Communication -->
 
 ## Overview
 
